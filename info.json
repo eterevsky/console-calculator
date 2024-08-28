@@ -1,0 +1,9 @@
+{
+    "name": "console-calculator",
+    "title": "Console Calculator",
+    "version": "0.1.0",
+    "author": "Oleg Eterevsky",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Press ` to open console, type an arithmetic expression and press Enter. The mod will show the result. The mod will ignore any chat messages that aren't valid arithmetic expressions, or are single numbers."
+}
